@@ -18,5 +18,3 @@ The main task is to write a regular expression that determines if the given stri
 ![image](https://user-images.githubusercontent.com/87894035/151804585-39baa44d-98b6-42b6-b912-ad875ec2b4f0.png) - the solution.
 ![image](https://user-images.githubusercontent.com/87894035/151805135-eeafcea3-ff5f-4d54-92ba-6492a75019d3.png) - task execution example.
 
-![151801926-275f2d3d-5d0f-4c6c-808d-f97939967689](https://user-images.githubusercontent.com/87894035/151805386-610bdc6e-e00d-444b-9025-056a319d475e.png)
-![151802028-a1b3161c-48eb-4dd1-8859-7a76a1392e18](https://user-images.githubusercontent.com/87894035/151805393-30d0bcf1-541a-407f-adfe-54493697d30e.png)
