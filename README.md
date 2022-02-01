@@ -38,3 +38,18 @@ Development of network applications in Java.
 Main goal of this work is developing a network application using TCP/IP stack protocols.
 The main task: The client, when accessing the server, receives a randomly selected Shakespeare sonnet from the file.
 
+![image](https://user-images.githubusercontent.com/87894035/151950252-d69ffd73-de1b-4d30-bed8-263323432287.png)![image](https://user-images.githubusercontent.com/87894035/151950508-71213c46-f6d5-4c5e-aaae-639ff5abcfca.png) - the Server code. 
+
+![image](https://user-images.githubusercontent.com/87894035/151951235-ac4c1ff4-9239-4af3-891a-bf4c2f39eebf.png)- the Client code.
+
+![image](https://user-images.githubusercontent.com/87894035/151951710-2eef9e4b-67a0-4e27-9380-7a70083c277f.png) - task execution example.
+
+
+
+
+
+
+
+
+
+
