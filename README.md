@@ -36,4 +36,5 @@ The main task:  The lists (stacks) I(1..N) and U(1..N) contain the results of N 
 # Fourth solution: 
 Development of network applications in Java.
 Main goal of this work is developing a network application using TCP/IP stack protocols.
+The main task: The client, when accessing the server, receives a randomly selected Shakespeare sonnet from the file.
 
