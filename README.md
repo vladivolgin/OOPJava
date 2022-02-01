@@ -33,3 +33,6 @@ The main task:  The lists (stacks) I(1..N) and U(1..N) contain the results of N 
 
 ![image](https://user-images.githubusercontent.com/87894035/151936946-049f7983-6995-4cf2-8777-cefebb99ff32.png) - task execution example.
 
+# Fourth solution: 
+
+
