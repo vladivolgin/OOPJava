@@ -31,7 +31,7 @@ The main task:  The lists (stacks) I(1..N) and U(1..N) contain the results of N 
 
 ![image](https://user-images.githubusercontent.com/87894035/151936603-33551d87-d0b9-435d-abfd-ce6630010ce2.png) ![image](https://user-images.githubusercontent.com/87894035/151936830-d0410f3a-f589-4b89-a35a-ae31879f665b.png) - the solution.
 
-![image](https://user-images.githubusercontent.com/87894035/151936946-049f7983-6995-4cf2-8777-cefebb99ff32.png) - task execution example.
+![image](https://user-images.githubusercontent.com/87894035/151936946-049f7983-6995-4cf2-8777-cefebb99ff32.png) - task execution example .
 
 # Fourth solution: 
 Development of network applications in Java.
