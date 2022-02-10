@@ -42,7 +42,7 @@ The main task: The client, when accessing the server, receives a randomly select
 
 ![image](https://user-images.githubusercontent.com/87894035/151951235-ac4c1ff4-9239-4af3-891a-bf4c2f39eebf.png)- the Client code.
 
-![image](https://user-images.githubusercontent.com/87894035/151951710-2eef9e4b-67a0-4e27-9380-7a70083c277f.png) - task execution example.
+![image](https://user-images.githubusercontent.com/87894035/151951710-2eef9e4b-67a0-4e27-9380-7a70083c277f.png) - task execution example .
 
 
 
