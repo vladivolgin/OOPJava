@@ -11,7 +11,7 @@ The main task is to find and print how many times each word is repeated in the t
 
 
 # Second solution:
-String processing. Using regular expressions in java applications.
+String processing. Using regular expressions in java applications .
 Main goal of this work is to implement a console application that allows you to manipulate a string by splitting it into elements using regular expressions.
 The main task is to write a regular expression that determines if the given string is a valid MAC address.
 – an example of correct expressions: aE:dC:cA:56:76:54.
