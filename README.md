@@ -1,6 +1,6 @@
 # OOPJava
 
-# First solution  : 
+# First solution : 
 Development of console java applications 
 Main goal of this work is to develop a console application to implement the simplest application using arrays, strings and files.
 The main task is to find and print how many times each word is repeated in the text.
