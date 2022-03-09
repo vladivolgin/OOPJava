@@ -19,7 +19,7 @@ The main task is to write a regular expression that determines if the given stri
 
 
 ![image](https://user-images.githubusercontent.com/87894035/151804585-39baa44d-98b6-42b6-b912-ad875ec2b4f0.png) - the solution.
-![image](https://user-images.githubusercontent.com/87894035/151805135-eeafcea3-ff5f-4d54-92ba-6492a75019d3.png) - task execution example .
+![image](https://user-images.githubusercontent.com/87894035/151805135-eeafcea3-ff5f-4d54-92ba-6492a75019d3.png) - task execution example.
 
 
 # Third solution: 
