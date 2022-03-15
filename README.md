@@ -3,7 +3,7 @@
 # First solution : 
 Development of console java applications 
 Main goal of this work is to develop a console application to implement the simplest application using arrays, strings and files.
-The main task is to find and print how many times each word is repeated in the text.
+The main task is to find and print how many times each word is repeated in the text .
 
 ![image](https://user-images.githubusercontent.com/87894035/151801926-275f2d3d-5d0f-4c6c-808d-f97939967689.png) - the solution.
 
