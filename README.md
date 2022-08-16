@@ -1,4 +1,4 @@
-# OOPJava
+#OOPJava
 
 # First solution: 
 Development of console java applications 
