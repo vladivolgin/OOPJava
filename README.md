@@ -22,7 +22,7 @@ The main task is to write a regular expression that determines if the given stri
 ![image](https://user-images.githubusercontent.com/87894035/151805135-eeafcea3-ff5f-4d54-92ba-6492a75019d3.png) - task execution example.
 
 
-# Third solution: 
+# Third solution : 
 Java collections.
 
 Main goal of this work is using collections developing java applications.
